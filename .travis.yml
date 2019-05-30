@@ -4,7 +4,7 @@ services:
 
 before_install:
   # Build docker image
-  - docker build -t rubensa/aws-cli --label "maintainer=Ruben Suarez <rubensa@gmail.com>"
+  - docker build -t rubensa/aws-cli --label "maintainer=Ruben Suarez <rubensa@gmail.com>" .
 
 script:
   # Check aws cli version
