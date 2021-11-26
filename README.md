@@ -1,3 +1,6 @@
+| ⚠ **WARNING**: This image is obsolete and has been superseded by [rubensa/ubuntu-tini-dev-k8s](https://github.com/rubensa/docker-ubuntu-tini-dev-k8s). |
+| --- |
+
 # AWS CLI Docker Image
 
 This image provides the AWS CLI.
